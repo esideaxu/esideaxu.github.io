@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://esideaxu.github.io/BMi/sitemap_index.txt
+Sitemap: https://esideaxu.github.io/OAx/sitemap_index.txt
+Sitemap: https://esideaxu.github.io/QlO/sitemap_index.txt
+Sitemap: https://esideaxu.github.io/yPr/sitemap_index.txt
